@@ -1,4 +1,4 @@
-Revealing Global Patterns of Hydropower Plants Using Remote Sensing
+# Revealing Global Patterns of Hydropower Plants Using Remote Sensing
 
 This repository contains the analysis scripts and model resources used in the study:
 
