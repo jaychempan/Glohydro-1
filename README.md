@@ -11,7 +11,7 @@ Jiahao Li¹, Jiancheng Pan¹, Ramit Debnath², Dabo Guan¹, Xiaomeng Huang¹*, Q
 
 The project introduces HydroVLM, a vision–language framework for detecting hydropower plants (HPPs) globally using remote-sensing imagery, enabling systematic assessment of hydropower distribution, transboundary development, ecological conservation impacts, runoff alteration, and spatiotemporal dynamics.
 
-#Visit GloHydro: https://glohydro.cn
+Visit GloHydro: https://glohydro.cn
 
 
 ---
