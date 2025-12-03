@@ -1,13 +1,13 @@
-# Revealing Global Patterns of Hydropower Plants Using Remote Sensing
+# Global hydropower infrastructure and its environmental risks mapped by multimodal AI
 
 This repository contains the analysis scripts and model resources used in the study:
 
-“Revealing Global Patterns of Hydropower Plants Using Remote Sensing”
+“Global hydropower infrastructure and its environmental risks mapped by multimodal AI”
 
 Jiahao Li¹, Jiancheng Pan¹, Ramit Debnath², Dabo Guan¹, Xiaomeng Huang¹*, Qiang Zhang¹*
 
 ¹ Department of Earth System Science, Tsinghua University, Beijing, China
-² Energy Policy Research Group, Judge Business School, University of Cambridge, UK
+² Centre for Human-Inspired AI, University of Cambridge, UK
 
 The project introduces HydroVLM, a vision–language framework for detecting hydropower plants (HPPs) globally using remote-sensing imagery, enabling systematic assessment of hydropower distribution, transboundary development, ecological conservation impacts, runoff alteration, and spatiotemporal dynamics.
 
